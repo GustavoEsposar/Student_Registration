@@ -1,7 +1,7 @@
 # Student_Registration
 Student registration system developed in Java.
 
-
+Class Diagram:
 ![image](https://user-images.githubusercontent.com/82062393/185981682-515a9ed2-2f53-4450-97cd-7116bb61f219.png)
 
 ![image](https://user-images.githubusercontent.com/82062393/185982432-d3b26311-bb19-44f1-a0c9-904e43e5b251.png)
