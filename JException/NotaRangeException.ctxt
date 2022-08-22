@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NotaRangeException
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ NotaRangeException\ aqui.\r\n\ \r\n\ @author\ Gustavo\ Barbieri\ Esposar\ RA00297810\r\n\ \ \ \ \ \ \ \ \ \ Caio\ de\ Nasi\ Sclavi\ \ \ \ \ \ RA00301504\ \r\n\ @version\ 10.0\ 24/05/2022\r\n
+comment1.params=
+comment1.target=NotaRangeException()
+comment2.params=msg
+comment2.target=NotaRangeException(java.lang.String)
+numComments=3

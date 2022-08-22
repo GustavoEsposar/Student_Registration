@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Cria\u00E7\u00E3o\ do\ construtor\ Aluno\ com\ seus\ devidos\ setters\ e\ getters.\r\n\ \r\n\ @authors\ Gustavo\ Barbieri\ Esposar\ RA00297810\r\n\ \ \ \ \ \ \ \ \ \ Caio\ de\ Nasi\ Sclavi\ \ \ \ \ \ RA00301504\r\n\ @version\ 1.0\ 25/03/2022\ 07h57\r\n
+comment1.params=nome\ idade\ _ra\ _curso\ _nota
+comment1.target=Aluno(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ float)
+comment2.params=_ra
+comment2.target=void\ setRa(java.lang.String)
+comment3.params=_curso
+comment3.target=void\ setCurso(java.lang.String)
+comment4.params=_nota
+comment4.target=void\ setNota(float)
+comment5.params=
+comment5.target=java.lang.String\ getRA()
+comment6.params=
+comment6.target=java.lang.String\ getCurso()
+comment7.params=
+comment7.target=float\ getNota()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=toString\ utilizado\ para\ printar\ todos\ os\ valores\ do\ aluno\ junto
+numComments=9

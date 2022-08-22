@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Vazio
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Excecoes\ aqui.\r\n\ \r\n\ @author\ Gustavo\ Barbieri\ Esposar\ RA00297810\r\n\ \ \ \ \ \ \ \ \ \ Caio\ de\ Nasi\ Sclavi\ \ \ \ \ \ RA00301504\r\n\ @version\ 31/03/2022\ 08h10\r\n
+comment1.params=
+comment1.target=Vazio()
+comment2.params=msg
+comment2.target=Vazio(java.lang.String)
+numComments=3

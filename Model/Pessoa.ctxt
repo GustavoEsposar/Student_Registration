@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ Representa\ uma\ pessoa.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 0.1\ 24/03/2022\r\n
+comment1.params=nome\ idade
+comment1.target=Pessoa(java.lang.String,\ int)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=idade
+comment3.target=void\ setIdade(int)
+comment4.params=
+comment4.target=NomePessoa\ getNome()
+comment5.params=
+comment5.target=int\ getIdade()
+comment6.params=
+comment6.target=java.lang.String\ getNomeInvertido()
+comment7.params=
+comment7.target=java.lang.String\ getNomeBiblio()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
