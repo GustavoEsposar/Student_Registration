@@ -1,9 +1,12 @@
 # Student_Registration
 Student registration system developed in Java.
 
+
 ![image](https://user-images.githubusercontent.com/82062393/185981682-515a9ed2-2f53-4450-97cd-7116bb61f219.png)
 
-![image](https://user-images.githubusercontent.com/82062393/185981714-6f9ff238-b849-419e-99dd-890cd1f7f35b.png)
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/82062393/185981714-6f9ff238-b849-419e-99dd-890cd1f7f35b.png)">
+</p>
 
 ![image](https://user-images.githubusercontent.com/82062393/185981768-7f85cdfb-9c04-4248-a510-8606a070905b.png)
 
